@@ -1,6 +1,6 @@
 
 import './app.css'
-import Navbar from './navbar'
+import Navbar from './Navbar'
 import Header from './Header'
 import Footer from './Footer'
 import Bodycontent from './Bodycontent'
